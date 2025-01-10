@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380457785407",
+    "project_id": "uasppb-b728a",
+    "storage_bucket": "uasppb-b728a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380457785407:android:7cbc181980cf98197a008a",
+        "android_client_info": {
+          "package_name": "com.example.uasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5ab51G9JwhwhJMoIacjHDxXuqai8xNls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
